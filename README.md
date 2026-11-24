@@ -65,3 +65,4 @@ WARNING: Font "Times New Roman" could not be found in /home/user/docs/fonts/
 Oct 08, 2020 4:28:44 PM Converter highlightText
 WARNING: java.lang.NumberFormatException: darkCyan could not be recognized as a valid color
 ```
+Git-Hub URL where original code repository was acquired: https://github.com/e-reznik/Docx2PDF/blob/master/README.md
